@@ -1,0 +1,9 @@
+{
+    "best_score": 60,
+    "settings": {
+        "difficulty": "NORMAL",
+        "auto_shoot": false,
+        "sound": true,
+        "touch": false
+    }
+}
