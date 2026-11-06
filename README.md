@@ -1,240 +1,290 @@
-\# 🚀 Nebula Strike
+# 🚀 NEBULA STRIKE
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:101B3D,75:4B1D75,100:09090B&height=230&section=header&text=NEBULA%20STRIKE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=ENTER%20THE%20BATTLE.%20SURVIVE%20THE%20NEBULA.&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
 
-\*\*Nebula Strike\*\* is a 2D Space Shooter game developed with Python and Tkinter.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=17&duration=3000&pause=1000&color=8B9FFF&center=true&vCenter=true&width=600&lines=2D+SPACE+SHOOTER;BUILT+WITH+PYTHON+%26+TKINTER;FIGHT.+SURVIVE.+DOMINATE." />
 
+<br/>
 
+<img src="https://img.shields.io/badge/PYTHON-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GUI-TKINTER-FFCC33?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/GENRE-SPACE%20SHOOTER-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PLATFORM-DESKTOP-334155?style=for-the-badge"/>
 
-Fight against enemy spaceships, dodge incoming attacks, survive as long as possible, and achieve the highest score!
+<br/><br/>
 
+<a href="https://github.com/M-JAHANARA/Nebula_Strike/stargazers">
+<img src="https://img.shields.io/github/stars/M-JAHANARA/Nebula_Strike?style=for-the-badge&color=yellow&logo=github"/>
+</a>
+<a href="https://github.com/M-JAHANARA/Nebula_Strike/network/members">
+<img src="https://img.shields.io/github/forks/M-JAHANARA/Nebula_Strike?style=for-the-badge&color=blue&logo=github"/>
+</a>
+<a href="https://github.com/M-JAHANARA/Nebula_Strike/issues">
+<img src="https://img.shields.io/github/issues/M-JAHANARA/Nebula_Strike?style=for-the-badge&color=red&logo=github"/>
+</a>
 
+</div>
 
-The game features a dark futuristic interface, neon-inspired graphics, responsive window layout, keyboard and mouse controls, and customizable gameplay settings.
+---
 
+## 🌌 About The Game
 
+**Nebula Strike** is a 2D Space Shooter game developed using **Python and Tkinter**, featuring a futuristic space combat experience.
 
-\## ✨ Features
+Take control of your spaceship, face waves of enemy spacecraft, dodge incoming attacks, and fight your way through the galaxy.
 
+Your mission is simple:
 
+**Survive as long as possible. Destroy your enemies. Beat your highest score.**
 
-\- 🚀 2D Space Shooter gameplay
+Designed with a dark futuristic interface and neon-inspired visuals, Nebula Strike combines arcade-style gameplay with customizable settings and responsive controls.
 
-\- 🎮 Keyboard and mouse controls
+---
 
-\- 📱 Touch-friendly on-screen controls
+## 🪐 Game Features
 
-\- 🖥️ Fullscreen mode
+<table>
+<tr>
+<td width="50%">
 
-\- 📐 Responsive canvas layout
+### 🚀 Combat System
+- 2D space shooter gameplay
+- Enemy spawning mechanics
+- Enemy attack system
+- Automatic shooting
+- Manual shooting
+- Collision detection
+- Explosion effects
 
-\- 👾 Enemy spawning and attack mechanics
+</td>
+<td width="50%">
 
-\- 💥 Collision detection and explosion effects
+### 🎮 Player Experience
+- Keyboard controls
+- Mouse controls
+- Touch-friendly on-screen controls
+- Fullscreen support
+- Responsive canvas layout
+- Pause and resume
+- Restart after Game Over
 
-\- ❤️ Player health and lives system
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-\- 🏆 Score and high-score tracking
+### 🏆 Progression System
+- Player health system
+- Multiple lives
+- Score tracking
+- High-score tracking
+- Adjustable difficulty
+- Persistent game progress
 
-\- ⚙️ Adjustable difficulty levels
+</td>
+<td width="50%">
 
-\- 🔫 Automatic and manual shooting modes
+### ⚙️ Customization
+- Easy / Normal / Hard
+- Automatic shooting toggle
+- Sound effects toggle
+- Touch controls toggle
+- Persistent settings
+- Customizable gameplay
 
-\- 🔊 Optional sound effects
+</td>
+</tr>
+</table>
 
-\- 💾 Persistent settings and high scores
-
-\- ⏸️ Pause and resume functionality
-
-
-
-\## 🛠️ Technologies
-
-
-
-\- Python 3
-
-\- Tkinter
-
-\- JSON
-
-\- Math
-
-\- Random
-
-\- Time
-
-
-
-No external Python packages are required.
-
-
-
-\## 📋 Requirements
-
-
-
-\- Python 3.9 or newer
-
-\- Tkinter
-
-
-
-\## 🚀 Installation
-
-
-
-\*\*1. Clone the repository\*\*
-
-
-
-```bash
-
-git clone https://github.com/YOUR\_USERNAME/nebula-strike.git
-
-```
-
-
-
-\*\*2. Navigate to the project directory\*\*
-
-
-
-```bash
-
-cd nebula-strike
-
-```
-
-
-
-\*\*3. Run the game\*\*
-
-
-
-```bash
-
-python sky\_game1.py
-
-```
-
-
-
-\## 🎮 Controls
-
-
-
-| Key / Input | Action |
-
-|---|---|
-
-| W / A / S / D | Move spaceship |
-
-| Arrow Keys | Move spaceship |
-
-| Space | Manual shooting |
-
+---
+
+## 🎮 Controls
+
+| Input | Action |
+|:---|:---|
+| `W` / `A` / `S` / `D` | Move spaceship |
+| `↑` `↓` `←` `→` | Move spaceship |
+| `SPACE` | Manual shooting |
 | Mouse | Move and shoot |
+| On-screen controls | Movement and shooting |
+| `ESC` | Pause / Resume |
+| `F11` | Toggle fullscreen |
+| `R` | Restart after Game Over |
 
-| Touch Controls | On-screen movement and shooting |
+<sub>Note: Manual shooting is available when Automatic Shooting is disabled.</sub>
 
-| ESC | Pause / Resume |
+---
 
-| F11 | Toggle fullscreen |
+## ⚙️ Gameplay Configuration
 
-| R | Restart after Game Over |
+Customize your gameplay experience through the in-game settings.
 
+| Setting | Available Options |
+|:---|:---|
+| Difficulty | Easy / Normal / Hard |
+| Automatic Shooting | Enabled / Disabled |
+| Sound Effects | Enabled / Disabled |
+| Touch Controls | Enabled / Disabled |
 
+**Save System**
 
-\*\*Note:\*\* Manual shooting is available when Auto Shooting is disabled.
-
-
-
-\## ⚙️ Game Settings
-
-
-
-Players can customize:
-
-
-
-\- Difficulty: Easy, Normal, Hard
-
-\- Automatic Shooting: On / Off
-
-\- Sound Effects: On / Off
-
-\- Touch Controls: On / Off
-
-
-
-Settings and the highest score are stored locally in `sky\_game\_save.json`.
-
-
-
-\## 📁 Project Structure
-
-
+Your settings and highest score are stored locally in:
 
 ```text
-
-nebula-strike/
-
-│
-
-├── sky\_game1.py
-
-├── sky\_game\_save.json
-
-├── README.md
-
-└── .gitignore
-
+sky_game_save.json
 ```
 
+The file is generated automatically when the game saves its settings or score.
 
+---
 
-`sky\_game\_save.json` is generated automatically when the game saves its settings or score.
+## 🛠️ Built With
 
+<div align="center">
 
+| Technology | Purpose |
+|:---|:---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Main programming language |
+| ![Tkinter](https://img.shields.io/badge/Tkinter-FFCC33?style=flat-square&logo=python&logoColor=black) | Graphical user interface |
+| ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) | Local data persistence |
+| Math | Game calculations |
+| Random | Randomized gameplay events |
+| Time | Timing and game mechanics |
 
-\## 🖥️ Platform Compatibility
+</div>
 
+**No external Python packages are required.**
 
+---
 
-The game is designed for desktop environments running Python and Tkinter.
+## 💻 Installation & Setup
 
+### 1. Clone the repository
 
+```bash
+git clone https://github.com/M-JAHANARA/Nebula_Strike.git
+```
 
-The interface adapts to different desktop window sizes and supports fullscreen mode.
+### 2. Enter the project directory
 
+```bash
+cd Nebula_Strike
+```
 
+### 3. Verify Python installation
 
-Note: Tkinter is a desktop GUI framework, not a native Android or iOS application framework.
+```bash
+python --version
+```
 
+Python 3.9 or newer is required.
 
+### 4. Run the game
 
-\## 👨‍💻 Developer
+```bash
+python sky_game1.py
+```
 
+<sub>Make sure Tkinter is installed and available in your Python environment.</sub>
 
+---
 
-\*\*M.JAHANARA\*\*
+## 📁 Project Structure
 
+```text
+Nebula_Strike/
+│
+├── sky_game1.py
+│
+├── sky_game_save.json
+│
+├── README.md
+│
+└── .gitignore
+```
 
+| File | Description |
+|:---|:---|
+| `sky_game1.py` | Main game implementation |
+| `sky_game_save.json` | Automatically generated save data |
+| `README.md` | Project documentation |
+| `.gitignore` | Git exclusion rules |
 
-Developed with Python ❤️
+---
 
+## 🖥️ Platform Compatibility
 
+Nebula Strike is designed for desktop environments that support Python and Tkinter.
 
-\---
+- Windows
+- Linux
+- macOS (with a compatible Tkinter installation)
 
+The game supports different desktop window sizes and fullscreen mode.
 
+<blockquote>
+<strong>Important:</strong> Touch-friendly on-screen controls do not make this a native Android or iOS application. Tkinter is a desktop GUI framework.
+</blockquote>
 
-⭐ If you like this project, consider giving it a star on GitHub!
+---
 
+## 📊 Repository Activity
 
+<div align="center">
 
-\*\*License:\*\* MIT (if distributed under the MIT License).
+<img src="https://img.shields.io/github/last-commit/M-JAHANARA/Nebula_Strike?style=for-the-badge&color=6366F1&label=LAST%20UPDATE"/>
+<img src="https://img.shields.io/github/repo-size/M-JAHANARA/Nebula_Strike?style=for-the-badge&color=0EA5E9&label=REPOSITORY%20SIZE"/>
+<img src="https://img.shields.io/github/languages/top/M-JAHANARA/Nebula_Strike?style=for-the-badge&color=8B5CF6&label=MAIN%20LANGUAGE"/>
 
+</div>
 
+---
 
+## 👨‍💻 Developer
+
+<div align="center">
+
+<img src="https://github.com/M-JAHANARA.png" width="110" style="border-radius:50%"/>
+
+### M.JAHANARA
+
+**Software Developer | Python Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-M.JAHANARA-181717?style=for-the-badge&logo=github)](https://github.com/M-JAHANARA)
+
+*Developed with Python ❤️*
+
+</div>
+
+---
+
+## ⭐ Support The Project
+
+If you enjoy playing **Nebula Strike**, consider supporting its development!
+
+- ⭐ Star this repository.
+- 🐛 Report bugs through GitHub Issues.
+- 💡 Suggest new features.
+- 🔀 Contribute improvements.
+
+Every contribution helps make the project better.
+
+<div align="center">
+
+### 🚀 THE GALAXY IS YOURS. ARE YOU READY?
+
+<br/>
+
+<a href="https://github.com/M-JAHANARA/Nebula_Strike">
+<img src="https://img.shields.io/badge/EXPLORE%20NEBULA%20STRIKE-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>© M.JAHANARA — Nebula Strike</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:4B1D75,100:030712&height=120&section=footer" width="100%"/>
+
+</div>
