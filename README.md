@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:101B3D,75:4B1D75,100:09090B&height=230&section=header&text=NEBULA%20STRIKE&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=ENTER%20THE%20BATTLE.%20SURVIVE%20THE%20NEBULA.&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=17&duration=3000&pause=1000&color=8B9FFF&center=true&vCenter=true&width=600&lines=2D+SPACE+SHOOTER;BUILT+WITH+PYTHON+%26+TKINTER;FIGHT.+SURVIVE.+DOMINATE." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=17&duration=3000&pause=1000&color=8B9FFF&center=true&vCenter=true&width=600&lines=2D+SPACE+SHOOTER;BUILT+WITH+PYTHON+%26+TKINTER;FIGHT.+SURVIVE.+DOMINATE."/>
 
 <br/>
 
